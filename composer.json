@@ -17,7 +17,7 @@
     }
   },
   "require": {
-    "cohesion/dx8": ">=6.0.0"
+    "acquia/cohesion": "^6.2"
   },
   "autoload": {
     "psr-4": {
